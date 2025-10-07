@@ -3891,9 +3891,9 @@ readers do not read off random characters that represent icons */
   .hb-testimonialsthumbslider .hb-prev,
   .hb-testimonialsthumbslider .hb-next {
     display: none; }
-  .hb-prev,
+  /* .hb-prev,
   .hb-next {
-    display: none; }
+    display: none; }  */
   .hb-gallerycontent h3 {
     font-size: 14px;
     line-height: 17px; }
