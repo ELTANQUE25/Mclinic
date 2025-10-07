@@ -3457,8 +3457,8 @@ readers do not read off random characters that represent icons */
     padding: 0; }
   .search-popup .close-btn {
     right: 20px;
-    width: 40px;
-    height: 40px;
+    /* width: 40px;
+    height: 40px; */
     font-size: 20px;
     line-height: 25px;
     padding: 10px 0 0; }
