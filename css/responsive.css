@@ -3911,3 +3911,12 @@ readers do not read off random characters that represent icons */
   .v4 .hb-whychooseus-img::after {
     width: 290px;
     height: 290px; } }
+
+    @media (max-width: 768px) {
+  .hb-header .hb-topbar {
+    display: none;
+  }
+}
+    
+
+
