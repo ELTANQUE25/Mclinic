@@ -6782,8 +6782,8 @@ body {
 }
 
 .hb-servicesslider .hb-slidernav button {
-  opacity: 0;
-  visibility: hidden;
+  opacity: 1;
+  visibility: visible;
 }
 
 .hb-servicesslider .hb-prev {
@@ -6802,10 +6802,10 @@ body {
   line-height: 41px;
 }
 
-/* .hb-servicesslider:hover .hb-slidernav button {
+.hb-servicesslider:hover .hb-slidernav button {
   opacity: 1;
   visibility: visible;
-} */
+}
 
 .hb-servicesslider:hover .hb-prev {
   left: -4%;

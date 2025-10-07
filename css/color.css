@@ -140,7 +140,7 @@ background: #B68642;
 background: #B68642;
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 );
 }
-/*=====================Color with opacity========================*/
+=====================Color with opacity========================*/
 /* .hb-postimage:before,
 .hb-gallerycontent
 {background: #B68642;
@@ -150,7 +150,7 @@ background: -webkit-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186
 background: -o-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
 background: -ms-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
 background: linear-gradient(to right, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 ); */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 );
 } */
 .hb-footer.v3 .hb-socialicons li a,
 .hb-homeslider.v5 .hb-btn,
@@ -161,7 +161,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', end
 /*=============================================
 			Theme Border Color
 =============================================*/
-/* input:focus,
+input:focus,
 .select select:focus,
 .form-control:focus,
 .hb-thumb figure img,
@@ -170,7 +170,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', end
 { border-color: #B68642; }
 .hb-servicebox:hover .hb-serviceimg:after,
 .hb-teambox:hover .hb-teamimg:after
-{border-color: #946d35;} */
+{border-color: #946d35;}
 
 .hb-footer.v3 .hb-socialicons li a,
 .hb-homeslider.v5 .hb-btn
