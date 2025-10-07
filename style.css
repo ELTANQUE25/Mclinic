@@ -5936,7 +5936,7 @@ body {
 			Footer Style					
 ============================================= */
 .hb-footer {
-  background: #f5f5f9;
+  background: white;
 }
 
 /* =============================================
@@ -6222,7 +6222,7 @@ body {
   float: left;
   width: 100%;
   padding: 15px 0;
-  background: #e7e7f2;
+  background: #b686427c;
 }
 
 /* =============================================
@@ -6231,7 +6231,7 @@ body {
 .hb-copyright {
   font-size: 14px;
   line-height: 17px;
-  color: #A59E92;
+  color: #2F4B59;
   display: inline-block;
   vertical-align: middle;
 }
@@ -6260,7 +6260,7 @@ body {
 }
 
 .hb-footernav li a {
-  color: #A59E92;
+  color: #2F4B59;
   display: block;
 }
 
@@ -6555,7 +6555,7 @@ body {
   text-align: center;
   border-radius: 50%;
   position: absolute;
-  background: #c1bfda;
+  background: #B68642;
 }
 
 .hb-prev:hover {
@@ -6577,7 +6577,7 @@ body {
   text-align: center;
   border-radius: 50%;
   position: absolute;
-  background: #c1bfda;
+  background: #B68642;
   right: 4%;
   left: auto;
 }
@@ -6802,10 +6802,10 @@ body {
   line-height: 41px;
 }
 
-.hb-servicesslider:hover .hb-slidernav button {
+/* .hb-servicesslider:hover .hb-slidernav button {
   opacity: 1;
   visibility: visible;
-}
+} */
 
 .hb-servicesslider:hover .hb-prev {
   left: -4%;
@@ -10729,7 +10729,7 @@ body {
   bottom: 20px;
   font-size: 18px;
   line-height: 20px;
-  color: #FAFAF8;
+  color: #B68642;
   cursor: pointer;
   float: right;
   width: 50px;

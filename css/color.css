@@ -141,7 +141,7 @@ background: #B68642;
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 );
 }
 /*=====================Color with opacity========================*/
-.hb-postimage:before,
+/* .hb-postimage:before,
 .hb-gallerycontent
 {background: #B68642;
 /* background: -moz-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
@@ -151,7 +151,7 @@ background: -o-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,
 background: -ms-linear-gradient(left, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
 background: linear-gradient(to right, rgba(170,170,255,0.8) 0%, rgba(251,186,248,0.8) 100%);
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#aaaaff', endColorstr='#fbbaf8', GradientType=1 ); */
-}
+} */
 .hb-footer.v3 .hb-socialicons li a,
 .hb-homeslider.v5 .hb-btn,
 .hb-homeslider.v5 .hb-prev:hover,
