@@ -995,7 +995,7 @@ address {
 .hb-btn {
   color: #2F4B59;
   height: 45px;
-  padding: 0 40px;
+  padding: 22px 40px;
   position: relative;
   text-align: center;
   border-radius: 30px;
@@ -6514,7 +6514,7 @@ body {
   line-height: 19px;
   font-weight: 300;
   margin: 0 0 50px;
-  color: #A59E92;
+  color: #2F4B59;
 }
 
 .hb-slidercontent .hb-description p {
@@ -8039,7 +8039,7 @@ body {
 .hb-bannarheading h1 {
   font-size: 36px;
   line-height: 39px;
-  color: #FAFAF8;
+  color: #2F4B59;
   font-weight: 500;
   margin: 0 0 15px;
   text-transform: capitalize;
