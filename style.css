@@ -107,6 +107,7 @@ h6 a {
   color: #2F4B59;
 }
 
+
 p {
   margin: 0 0 20px;
   line-height: 24px;
@@ -10080,6 +10081,7 @@ body {
   padding: 0 0 23px 47px;
   text-transform: none;
   letter-spacing: 0.3px;
+  font-weight: 600;
 }
 
 .service .hb-blogdetails .hb-post h4.active {
