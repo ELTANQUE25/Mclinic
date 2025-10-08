@@ -10728,7 +10728,7 @@ body {
   font-weight: 400;
   float: right;
 }
-
+/* 
 #back-top {
   position: fixed;
   right: 20px;
@@ -10757,6 +10757,31 @@ body {
 #back-top.active {
   opacity: 1;
   visibility: visible;
+} */
+
+#whatsapp-icon {
+  position: fixed;
+  right: 20px;
+  bottom: 20px;
+  font-size: 30px; /* Più grande per l'icona */
+  color: #B68642; /* Colore verde di WhatsApp */
+  cursor: pointer;
+  background-color: #fff; /* Sfondo bianco */
+  border-radius: 50%; /* Bottone circolare */
+  padding: 14px;
+  z-index: 999; /* Rendilo sopra agli altri contenuti */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Leggera ombra */
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  -webkit-transition: all 0.3s ease; /* Transizione elegante */
+  transition: all 0.3s ease;
+}
+
+#whatsapp-icon:hover {
+  background-color: #B68642; /* Cambio colore al passaggio del mouse */
+  color: #fff; /* Colore dell'icona al passaggio del mouse */
 }
 
 .loader-holder {
