@@ -6222,7 +6222,7 @@ body {
   float: left;
   width: 100%;
   padding: 15px 0;
-  background: #b686427c;
+  background: #2F4B59;
 }
 
 /* =============================================
@@ -6231,9 +6231,13 @@ body {
 .hb-copyright {
   font-size: 14px;
   line-height: 17px;
-  color: #2F4B59;
+  color: #FAFAF8;
   display: inline-block;
   vertical-align: middle;
+}
+
+.footer-list {
+  color: #FAFAF8;
 }
 
 /* =============================================
@@ -6260,7 +6264,7 @@ body {
 }
 
 .hb-footernav li a {
-  color: #2F4B59;
+  color: #FAFAF8;
   display: block;
 }
 
@@ -9871,7 +9875,7 @@ body {
   background-image: #B68642;
   background-image: #B68642;
   background-image: #B68642;
-  color: #FAFAF8;
+  color: #B68642;
 }
 
 .service ul li .fa-caret-right {
@@ -9886,11 +9890,11 @@ body {
   background-image: #B68642;
   background-image: #B68642;
   background-image: #B68642;
-  color: #FAFAF8;
+  color: #B68642;
 }
 
 .service ul li.active .fa-caret-right {
-  color: #FAFAF8;
+  color: #B68642;
 }
 
 .service .hb-recentnews {
