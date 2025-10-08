@@ -10812,7 +10812,7 @@ body {
   bottom: 0;
   left: 0;
   right: 0;
-  background: white;
+  background: #FAFAF8;
   -webkit-animation: flash 2.4s linear infinite;
   animation: flash 2.4s linear infinite;
   opacity: 0;
