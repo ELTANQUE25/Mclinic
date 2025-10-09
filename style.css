@@ -1069,7 +1069,7 @@ address {
 
 
 .hb-socialicons li a:hover {
-  color: #FAFAF8;
+  color: #B68642;
   background-position: right center;
 }
 
@@ -5418,6 +5418,7 @@ body {
 .hb-navigationarea {
   float: left;
   width: 100%;
+  background: #FAFAF8;
 }
 
 /* =============================================

@@ -3024,7 +3024,7 @@ readers do not read off random characters that represent icons */
     float: right;
     display: block;
     margin-right: 0;
-    background: #fff; }
+    background: #FAFAF8; }
     .navbar-toggle .icon-bar {
       background: #2F4B59; }
   .navbar-collapse.collapse {
